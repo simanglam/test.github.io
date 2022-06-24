@@ -39,4 +39,7 @@
 #   label-regional: Türkçe
 #   label-english: Turkish
 
+- language-code: zh-hant
+  label-regional: 繁體中文
+  label-english: Tradition Chinese
 

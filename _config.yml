@@ -98,3 +98,9 @@ defaults:
     values:
       lang: "ca"
       label: "Català"
+  -
+  scope:
+      path: "zh-hant"
+    values:
+      lang: "zh-hant"
+      label: "Traditional Chinese"
