@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Citations and references (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

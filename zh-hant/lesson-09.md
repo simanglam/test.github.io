@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Cross-referencing (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

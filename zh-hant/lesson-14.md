@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Selecting fonts and using Unicode engines (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

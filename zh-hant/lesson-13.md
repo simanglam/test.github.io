@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Structuring longer documents (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "More on: Your first LaTeX document"
 description: "This lesson gives more detail on how to run LaTeX, and the special characters it uses and how to insert them in the output PDF. (Chinese)"
 toc-anchor-text: "More on: Your first LaTeX document"

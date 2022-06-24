@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Including graphics and making things 'float' (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Examples for further study (Chinese)"
 description: ""
 toc-anchor-text: "Anchor"

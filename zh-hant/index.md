@@ -1,9 +1,9 @@
 ---
 layout: "start"
-lang: "zh"
+lang: "zh-hant"
 title: Learn LaTeX online for free in beginner friendly lessons
 description: "Learn LaTeX in 16 beginner friendly lessons. Take your first steps with LaTeX, a document preparation system designed to produce high-quality typeset output."
-permalink: /zh/
+permalink: /zh-hant/
 ---
 
 # Learn LaTeX

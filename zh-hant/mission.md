@@ -1,7 +1,7 @@
 ---
-lang: "zh"
+lang: "zh-hant"
 title: Mission
-permalink: /zh/mission
+permalink: /zh-hant/mission
 ---
 
 # Mission (Chinese)

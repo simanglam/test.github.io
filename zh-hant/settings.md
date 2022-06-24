@@ -1,6 +1,6 @@
 ---
 layout: "page"
-lang: "zh"
+lang: "zh-hant"
 title: Site Settings
 permalink: /zh/settings
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "More language-specifics for Chinese"
 description: ""
 next: "extra-01"

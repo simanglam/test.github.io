@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Language-specifics for Chinese"
 description: ""
 toc-anchor-text: "Anchor"

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Your first LaTeX document (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

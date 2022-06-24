@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Accessing documentation and getting help (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "What is LaTeX and how does it work? (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

@@ -1,6 +1,6 @@
 ---
 layout: "lesson"
-lang: "zh"
+lang: "zh-hant"
 title: "Logical structure (Chinese)"
 toc-anchor-text: "Anchor"
 toc-description: "Description"

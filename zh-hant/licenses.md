@@ -1,7 +1,7 @@
 ---
-lang: "zh"
+lang: "zh-hant"
 title: Licenses
-permalink: /zh/licenses
+permalink: /zh-hant/licenses
 ---
 
 # Licenses (Chinese)

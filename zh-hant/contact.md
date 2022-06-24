@@ -1,7 +1,7 @@
 ---
-lang: "zh"
+lang: "zh-hant"
 title: Contact
-permalink: /zh/contact
+permalink: /zh-hant/contact
 ---
 
 # Contact (Chinese)
