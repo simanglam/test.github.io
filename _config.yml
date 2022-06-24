@@ -99,7 +99,7 @@ defaults:
       lang: "ca"
       label: "Català"
   -
-  scope:
+    scope:
       path: "zh-hant"
     values:
       lang: "zh-hant"
