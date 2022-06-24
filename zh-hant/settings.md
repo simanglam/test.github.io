@@ -2,7 +2,7 @@
 layout: "page"
 lang: "zh-hant"
 title: Site Settings
-permalink: /zh/settings
+permalink: /zh-hant/settings
 ---
 # Site Settings (User Preferences) (ZH)
 

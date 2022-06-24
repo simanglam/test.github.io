@@ -111,7 +111,7 @@ navigational-elements_mission:
   pt: "Missão"
   tr: "Amaç"
   vi: "Sứ mệnh"
-  zh-hant: "Missing"
+  zh-hant: "我們的任務"
   mr: "उद्दिष्ट"
   ca: "Missió"
 navigational-elements_help:
@@ -171,7 +171,7 @@ navigational-elements_privacy:
   pt: "Privacidade"
   tr: "Privacy"
   vi: "Chính sách bảo mật"
-  zh: "Privacy"
+  zh-hant: "隱私"
   mr: "गोपनीयता धोरण"
   ca: "Privacitat"
 navigational-elements_open-an-issue:
