@@ -16,18 +16,13 @@ permalink: /zh-hant/
     <h3 
       class="text-columns__heading"
       >LaTeX簡介</h3>
-    <!--<p>LaTeX can be scary for new users as it is <em>not</em> a word processor, 
-    and because it is not a single program. Our aim is to help you get 
-    started with LaTeX from the basics, installation, to writing code, without 
-    trying to show you <em>everything</em> in one go. <a href="./mission">More on our mission &hellip;</a></p>-->
-    <p>對新接觸LaTeX的人來說LaTeX可以變得非常恐怖，因為第一他並<b>不是</b>一般的文書處理軟體，
-    第二它並不是由單一軟體所組成的，我們的目標是幫助你從零開始學習LaTeX，同時避免接收到太多資訊。</p>
+    <p>對新接觸LaTeX的人來說LaTeX可以變得非常恐怖，因為第一他並<b>不是</b>一般的文書處理軟體，第二它並不是由單一軟體所組成的，我們的目標是幫助你從零開始學習LaTeX，同時避免一次性的告訴你太多資訊，更詳細的資訊在<a href="./mission">我們的任務中</a></p>>。
   </section>
   <section>
     <h3
       class="text-columns__heading"
       >LaTeX是如何運作的</h3>
-      <!-- <p>We have taken 16 of the most important things you will need to know, and made them into short <em>lessons</em> which should not take long to cover. In each lesson, we give lots of examples of what you would write. You can edit and run them in this website. <a href="./help#examples">More on examples &hellip;</a></p> -->
+      <p>我們將我們認為最重要的16件事情作成了精簡的<b>教學</b>，每一篇的教學內都含有大量的範例，你可以在這裡編輯並觀看結果，更詳細的資訊在<a href="./help#examples">&hellip;</a></p>
   </section>
 </div>
 
@@ -38,19 +33,20 @@ permalink: /zh-hant/
 
 <p
   class="paragraph__toc"
-  >We have included a <b>More on this topic</b> page for each lesson. This extra information is there to support you when you need the detail, but should not get in your way if you don't.</p>
+  ><!-- We have included a <b>More on this topic</b> page for each lesson. This extra information is there to support you when you need the detail, but should not get in your way if you don't.</p> -->
+  我們在每一篇的教學內都加入了<b>延伸課程</b>來確保你可以得到更詳細的資料，但如果你不了解也不會對你的的使用造成困擾。</p>
 
 {% include toc-lessons.html prefix="zh-hant/lesson" %}
 
 <h2
   class="heading__toc"
-  >Additional lessons</h2>
+  >額外課程</h2>
 <ul 
   class="lessons-toc">
   {% include toc-additional-lessons.html prefix="zh-hant/language" %}
   {% include toc-additional-lessons.html prefix="zh-hant/extra" %}
 </ul>
 
-## Going further
+## 延伸資料
 
-We cover getting more information in [the last lesson](./lesson-16), but it is worth saying now that getting access to a book about LaTeX is still the best way to learn the details. We give some recommendations in the last lesson.
+我們在[最後一篇教學](./lesson-16)中涵蓋了如何得到更多關於LaTeX的資料，但我們依舊認為買一本書是學習LaTeX最好的方式，如果你有意願購買可以參考最後一篇教學中的推薦。

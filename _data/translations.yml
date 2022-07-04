@@ -27,7 +27,7 @@ skip-link:
   pt: "Ir para o conteúdo principal"
   tr: "İçeriğe atla"
   vi: "Chuyển đến nội dung chính"
-  zh-hant: "Missing"
+  zh-hant: "跳轉到主要內容"
   mr: "मुख्य विषयावर जा"
   ca: "Saltar al contingut principal"
 heading_meta:
@@ -51,7 +51,7 @@ heading_navigation:
   pt: "Navegação"
   tr: "Site Haritası"
   vi: "Điều hướng"
-  zh-hant: "導航"
+  zh-hant: "快速前往"
   mr: "पृष्ठे"
   ca: "Navegació"
 heading_planet:
@@ -63,7 +63,7 @@ heading_planet:
   pt: "Planeta"
   tr: "Alakalı Sayfalar"
   vi: "Liên kết ngoài"
-  zh-hant: "Missing"
+  zh-hant: "友善連結"
   mr: "लाटेक्-विश्व"
   ca: "Planeta"
 informational-elements_lesson:
